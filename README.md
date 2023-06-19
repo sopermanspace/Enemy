@@ -1,4 +1,5 @@
 # Unity Enemy Scripts
+[![Twitter Follow](https://img.shields.io/twitter/follow/youtube?label=Follow&logo=Github&style=social)](https://github.com/himanshuskyrockets) [![Twitter Follow](https://img.shields.io/twitter/follow/youtube?label=subscribe&logo=youtube&style=social)](https://www.youtube.com/watch?v=2nc4Hkyl9Q0) [![Medium.com](https://img.shields.io/badge/medium-.com-blue)](https://medium.com/@Clubwritter) [![Twitter Follow](https://img.shields.io/twitter/follow/youtube?label=Follow&logo=twitter&style=social)](https://twitter.com/superman_space) [![Support](https://img.shields.io/badge/-Support-green)](https://github.com/sponsors/himanshuskyrockets/)
 
 This repository contains enemy scripts and movement-related components for Unity. 
 
